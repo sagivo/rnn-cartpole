@@ -6,3 +6,5 @@ using RNN to play CartPole on Keras and openai Gym
 
 ## install
 you will need to install Keras and openAI Gym then just `python p.py`.
+
+[![Watch video](https://j.gifs.com/ANqD2O.gif)](https://youtu.be/Rt6mOWNkfSs)
